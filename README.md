@@ -1,2 +1,2 @@
 # Atividades_curso
-Voltado para atividades e projetos do curso.
+Curroculo online com o básico de html.
